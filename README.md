@@ -9,5 +9,5 @@ This repository contains solutions, templates, and resources related to competit
 ## Setup
 Clone this repository to your local system:
 ```bash
-git clone https://github.com/username/competitive-programming.git
-cd competitive-programming
+git clone https://github.com/username/CP.git
+
